@@ -2,6 +2,7 @@
   "expo": {
     "name": "meu-lista-tarefas",
     "slug": "meu-lista-tarefas",
+    "scheme": "lista-tarefas",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
